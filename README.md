@@ -1,5 +1,5 @@
 #uc_git_course
 
-This * has to be deleted
+Hi!
 
-This text was added without updating by git pull
+This is my git course task
